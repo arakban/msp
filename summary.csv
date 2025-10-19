@@ -1,0 +1,5 @@
+dish,recipe_cash_cost,temp_degC,time_mins,most_energy
+roast,11.4,200,75.5,False
+boiled,7.1,180,60.0,False
+sautée,NaN,160,99.0,True
+creole,22.75,200,75.5,False

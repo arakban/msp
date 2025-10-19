@@ -1,0 +1,1 @@
+We are going to do this test for Main Street Partners. I want to do it in an hour, and keep the code very modularised. Only write a few lines of code at a time, or a few functions at a time.
